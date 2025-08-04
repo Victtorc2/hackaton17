@@ -40,7 +40,7 @@ La organización del proyecto es la siguiente:
 
 pokedex-react/
 ├── public/                    
-│   └── index.html             # Archivo HTML principal
+│   
 ├── src/
 │   ├── components/            
 │   │   ├── PokemonCard.jsx    # Tarjeta que muestra un Pokémon con imagen y nombre
